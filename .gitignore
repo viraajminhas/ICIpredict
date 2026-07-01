@@ -1,0 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Node (deck build)
+deck/node_modules/
+deck/package-lock.json
+
+# Regenerable data cache (re-downloaded from the cBioPortal API by main.py)
+data/raw/
+data/processed/
+
+# Working / QA artifacts
+results/qa/
+results/full_run.log
+deck/figs/
+
+# OS
+.DS_Store
+Thumbs.db
