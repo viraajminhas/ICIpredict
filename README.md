@@ -9,6 +9,10 @@
 This project synthesizes the group's annotated bibliography into one runnable,
 falsifiable experiment on **real clinical data**.
 
+📊 **[Download the results slide deck (.pptx)](https://github.com/viraajminhas/ICIpredict/releases/latest)**
+· or view it in the repo at [`results/ICIpredict_results.pptx`](results/ICIpredict_results.pptx)
+· written write-up: [`results/report.md`](results/report.md)
+
 ## Data
 
 [Samstein et al., *Nature Genetics* 2019](https://www.nature.com/articles/s41588-018-0312-8)
