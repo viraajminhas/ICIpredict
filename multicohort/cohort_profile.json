@@ -1,0 +1,226 @@
+[
+  {
+    "study": "tmb_mskcc_2018",
+    "n": 1661,
+    "expr": false,
+    "mut": true,
+    "cna": false,
+    "response_fields": [],
+    "os": true,
+    "pfs": false
+  },
+  {
+    "study": "blca_iatlas_imvigor210_2017",
+    "n": 347,
+    "expr": true,
+    "mut": true,
+    "cna": false,
+    "response_fields": [
+      "CLINICAL_BENEFIT",
+      "RESPONDER",
+      "RESPONSE",
+      "TIDE_NO_BENEFITS"
+    ],
+    "os": true,
+    "pfs": false
+  },
+  {
+    "study": "rcc_iatlas_immotion150_2018",
+    "n": 263,
+    "expr": true,
+    "mut": true,
+    "cna": false,
+    "response_fields": [
+      "CLINICAL_BENEFIT",
+      "RESPONDER",
+      "RESPONSE",
+      "TIDE_NO_BENEFITS"
+    ],
+    "os": false,
+    "pfs": true
+  },
+  {
+    "study": "mixed_allen_2018",
+    "n": 249,
+    "expr": false,
+    "mut": true,
+    "cna": false,
+    "response_fields": [
+      "RECIST",
+      "RECIST_RESPONSE",
+      "ROH_RESPONSE",
+      "VA_RESPONSE"
+    ],
+    "os": true,
+    "pfs": true
+  },
+  {
+    "study": "nsclc_pd1_msk_2018",
+    "n": 240,
+    "expr": false,
+    "mut": true,
+    "cna": true,
+    "response_fields": [
+      "DURABLE_CLINICAL_BENEFIT"
+    ],
+    "os": false,
+    "pfs": true
+  },
+  {
+    "study": "mel_dfci_2019",
+    "n": 144,
+    "expr": true,
+    "mut": true,
+    "cna": true,
+    "response_fields": [],
+    "os": true,
+    "pfs": true
+  },
+  {
+    "study": "mel_iatlas_liu_2019",
+    "n": 122,
+    "expr": true,
+    "mut": true,
+    "cna": false,
+    "response_fields": [
+      "CLINICAL_BENEFIT",
+      "RESPONDER",
+      "RESPONSE",
+      "TIDE_NO_BENEFITS"
+    ],
+    "os": true,
+    "pfs": true
+  },
+  {
+    "study": "mel_iatlas_riaz_nivolumab_2017",
+    "n": 107,
+    "expr": true,
+    "mut": true,
+    "cna": false,
+    "response_fields": [
+      "CLINICAL_BENEFIT",
+      "RESPONDER",
+      "RESPONSE",
+      "TIDE_NO_BENEFITS"
+    ],
+    "os": true,
+    "pfs": false
+  },
+  {
+    "study": "mel_iatlas_gide_2019",
+    "n": 91,
+    "expr": true,
+    "mut": false,
+    "cna": false,
+    "response_fields": [
+      "CLINICAL_BENEFIT",
+      "RESPONDER",
+      "RESPONSE",
+      "TIDE_NO_BENEFITS"
+    ],
+    "os": true,
+    "pfs": true
+  },
+  {
+    "study": "mel_iatlas_hugo_ucla_2016",
+    "n": 27,
+    "expr": true,
+    "mut": true,
+    "cna": false,
+    "response_fields": [
+      "CLINICAL_BENEFIT",
+      "RESPONDER",
+      "RESPONSE",
+      "TIDE_NO_BENEFITS"
+    ],
+    "os": true,
+    "pfs": false
+  },
+  {
+    "study": "paad_iatlas_prince_2022",
+    "n": 93,
+    "expr": true,
+    "mut": true,
+    "cna": false,
+    "response_fields": [
+      "CLINICAL_BENEFIT",
+      "RESPONDER",
+      "RESPONSE",
+      "TIDE_NO_BENEFITS"
+    ],
+    "os": true,
+    "pfs": true
+  },
+  {
+    "study": "brca_iatlas_anders_2022",
+    "n": 31,
+    "expr": true,
+    "mut": true,
+    "cna": false,
+    "response_fields": [
+      "CLINICAL_BENEFIT",
+      "RESPONDER",
+      "RESPONSE",
+      "TIDE_NO_BENEFITS"
+    ],
+    "os": true,
+    "pfs": true
+  },
+  {
+    "study": "gbm_iatlas_prins_2019",
+    "n": 30,
+    "expr": true,
+    "mut": false,
+    "cna": false,
+    "response_fields": [
+      "CLINICAL_BENEFIT",
+      "RESPONDER",
+      "RESPONSE",
+      "TIDE_NO_BENEFITS"
+    ],
+    "os": true,
+    "pfs": true
+  },
+  {
+    "study": "ccrcc_iatlas_choueiri_2016",
+    "n": 16,
+    "expr": true,
+    "mut": true,
+    "cna": false,
+    "response_fields": [
+      "CLINICAL_BENEFIT",
+      "RESPONDER",
+      "RESPONSE",
+      "TIDE_NO_BENEFITS"
+    ],
+    "os": true,
+    "pfs": true
+  },
+  {
+    "study": "mel_ucla_2016",
+    "n": 38,
+    "expr": true,
+    "mut": true,
+    "cna": true,
+    "response_fields": [
+      "DURABLE_CLINICAL_BENEFIT",
+      "TREATMENT_RESPONSE"
+    ],
+    "os": true,
+    "pfs": false
+  },
+  {
+    "study": "skcm_mskcc_2014",
+    "n": 64,
+    "expr": true,
+    "mut": true,
+    "cna": true,
+    "response_fields": [
+      "DURABLE_CLINICAL_BENEFIT",
+      "RESPONSE_DURATION",
+      "TREATMENT_RESPONSE"
+    ],
+    "os": true,
+    "pfs": false
+  }
+]

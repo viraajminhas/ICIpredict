@@ -11,6 +11,7 @@ deck/package-lock.json
 # Regenerable data cache (re-downloaded from the cBioPortal API by main.py)
 data/raw/
 data/processed/
+multicohort/raw/
 
 # Working / QA artifacts
 results/qa/
