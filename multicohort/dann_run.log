@@ -1,0 +1,10 @@
+device=cpu  n=1015  genes=126
+
+LOCO AUC (mean over held-out cohorts with >=12/class):
+  Logistic (signatures)            0.596
+  Logistic (126 genes)             0.576
+  MLP (adversary off)              0.572
+  DANN (lambda=1.0)                0.576
+  DANN (lambda=2.0)                0.585
+
+Best DANN: DANN (lambda=2.0) = 0.585  vs logistic-sigs 0.596

@@ -1,0 +1,6 @@
+method,LOCO_AUC
+Logistic (signatures),0.5958353730143965
+Logistic (126 genes),0.5763043083360112
+MLP (adversary off),0.5722564803004008
+DANN (lambda=1.0),0.5761765789982921
+DANN (lambda=2.0),0.5845179436102498
